@@ -5,7 +5,7 @@ Circulomania is a website aimed at reducing the impact of climate change on the 
 ## Features
 
 1. **LCA Calculator**
-2. **Eco Caring Center**
+2. **Thrift Caring Corner**
 3. **Eco Green Coins**
 4. **Recycler Locator**
 5. **Daily Environmental News**
@@ -35,10 +35,10 @@ The Services Page:
 ![LCA](https://github.com/Ajita2003/Circulomania/assets/116851699/30fe7a40-1c92-4a2f-9e70-07a8d1dcb9d7)
 This page prompts for any product name as an input and calculates the carbon dioxide it releases throughout its Life Cycle from raw materials to destruction. 
 
-2. Eco Caring Center:
+2. Thrift Caring Corner:
 ![ECC2](https://github.com/Ajita2003/Circulomania/assets/116851699/0d92d0b9-8f8a-492f-b16f-6e5a8d8d283e)
 ![ECC](https://github.com/Ajita2003/Circulomania/assets/116851699/860e9d3b-88c1-4c03-9865-65b06d257fb4)
-The Eco Caring Center is a platform where one can buy or sell second-hand products that are in good condition. This feature is mainly targeted towards College students who can sell or buy books, also promoting Waste Reuse and Waste reduction. The user will have to create an account and enter the credentials for selling a product. They can also shop for second-hand products.
+The Thrift Caring Corner is a platform where one can buy or sell second-hand products that are in good condition. This feature is mainly targeted towards College students who can sell or buy books, also promoting Waste Reuse and Waste reduction. The user will have to create an account and enter the credentials for selling a product. They can also shop for second-hand products.
 
 3. Eco Green Coins:
 ![Greencoins](https://github.com/Ajita2003/Circulomania/assets/116851699/70b8f321-4d7a-4e0d-ba05-a9e8744e4abc)

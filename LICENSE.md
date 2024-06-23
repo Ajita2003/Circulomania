@@ -20,7 +20,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Certain features of this project incorporate code from the following repository: [Repository Name](link to repository).
+Certain features of this project incorporate code from the following repository: sijeeshmiziha/olx (Link : https://github.com/sijeeshmiziha/olx)
 
 The code is licensed under the [Original License Name]. The original license terms can be found [here](link to license file in original repository).
 

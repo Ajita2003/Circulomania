@@ -24,6 +24,9 @@ Circulomania is a website aimed at reducing the impact of climate change on the 
 
 To view a short working video of the website click on the link: https://drive.google.com/file/d/16nzTErgmhHw5oX9AHIoVmCNx0wmrZTe0/view?usp=drive_link 
 
+Main home page of the website:
+![Mainpage](https://github.com/Ajita2003/Circulomania/assets/116851699/7e185558-b66a-4cf2-9ebd-ec18ff8c1e64)
+
 1. LCA Calculator:
 
 This page prompts for any product name as an input and calculates the carbon dioxide it releases throughout its Life Cycle from raw materials to destruction. 
